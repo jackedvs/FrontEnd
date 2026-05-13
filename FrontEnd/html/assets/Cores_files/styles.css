@@ -1,0 +1,20 @@
+span {
+    color: lightgreen
+}
+
+.cor-nome {
+    color: aqua;
+}
+
+.cor-hex {
+    color: #a32e94
+}
+
+.cor-rgb {
+    color: rgb(255, 250, 0)
+}
+
+body {
+    background-color: #a32e94;
+    background-image: url(https://www.google.com/search?q=imagem+tecnologia&sca_esv=3879cc3584fdf07d&source=hp&ei=VLwDaqjKGMqH4dUPh-a76Aw&iflsig=AFdpzrgAAAAAagPKZG8fAakwD0lqv30no-UgSONtzxiI&ved=0ahUKEwioxLuD-LSUAxXKQ7gEHQfzDs0Q4dUDCBQ&uact=5&oq=imagem+tecnologia&gs_lp=Egdnd3Mtd2l6IhFpbWFnZW0gdGVjbm9sb2dpYTIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDILEC4YgAQYxwEYrwEyBRAAGIAEMgUQABiABDIFEAAYgARI7TBQkAVYjSlwAXgAkAEAmAGLAaABvgyqAQQxNS4yuAEDyAEA-AEBmAISoALtDKgCCsICChAAGAMYjwEY6gLCAgoQLhgDGI8BGOoCwgILEAAYgAQYsQMYgwHCAggQLhixAxiABMICCBAAGIAEGLEDwgIIEC4YgAQYsQPCAg4QLhiABBixAxjHARjRA8ICBRAuGIAEwgILEAAYgAQYigUYsQOYAwTxBbm8xbzLyX5zkgcEMTYuMqAH3XOyBwQxNS4yuAfpDMIHBjAuMTYuMsgHIYAIAQ&sclient=gws-wiz#sv=CAMSZhowKg56R01CT29MU0xuMWc5TTIOekdNQk9vTFNMbjFnOU06DkNTV2xJa1ZFMGZVNXRNIAQqLgoaX1hMd0RhdkFIdXF2V3hBXzMyOUhCQndfNTESDnpHTUJPb0xTTG4xZzlNGAAwARgHINGi7JYLSggQARgBIAEoAQ);
+}
