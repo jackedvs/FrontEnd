@@ -12,3 +12,6 @@ th {
     background-color: #6b21ab;
     color: white; /* contraste */
 }
+tr:nth-child(even){
+    background-color: #f3e8ff;
+}
